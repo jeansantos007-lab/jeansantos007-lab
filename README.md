@@ -1,4 +1,4 @@
-## OLa Jean, este e o teu perfil 👋
+## Ola Jean, este e o teu perfil 👋
 
 <!--
 **jeansantos007-lab/jeansantos007-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
